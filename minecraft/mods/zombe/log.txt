@@ -1,0 +1,10 @@
+=========== logging ===========
+ZModPack: version 6.8.3 for MC 1.4.6
+Log started at: 2014-02-10 06:49:31.408
+*** initialization ***
+info: processing configuration
+info: parsing "names.txt"
+info: loading config for "safe"
+info: configuration loaded
+*** done ***
+info: init render

@@ -1,0 +1,17 @@
+filename = 'forestry-A-2.0.0.9.jar'
+name = 'Forestry'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.4.7', '1.4.7' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0.9'
+
+[download]
+hash = '4008bf4c1bc96b446964c0e6cb7e473e5367cd0e7720d3303256384ea7019cbbc34a8481191b9842d5b34f11de91d35d71937a041f9fa0a2303fb788b8d52f88'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MHni9gjy/versions/DlMrTQxm/forestry-A-2.0.0.9.jar'
+
+[update.modrinth]
+mod-id = 'MHni9gjy'
+version = 'DlMrTQxm'

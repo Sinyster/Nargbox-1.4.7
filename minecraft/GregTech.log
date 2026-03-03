@@ -1,0 +1,59 @@
+GT_Mod: Creating Config Object.
+GT_Mod: Generating Lang-File
+GT_Mod: Removing all Scrapbox Drops.
+GT_Mod: Adding Scrap with a Chance of 200.00F to the Scrapbox Drops.
+GT_Mod: Preload-Phase finished!
+GT_Mod: Beginning Load-Phase.
+GT_Mod: Adding Blocks.
+GT_Mod: Register OreDict Entries of Non-GT-Items.
+GT_Mod: Register Unification Entries
+GT_Mod: Register other Mods Unification Targets.
+GT_Mod: Register TileEntities.
+GT_Mod: Register MetaTileEntities.
+GT_Mod: Register Armor Textures.
+GT_Mod: Register Meta-ID Items.
+GT_Mod: Adding All Sub-Items with their OreDict and LiquidDict Entries.
+GT_Mod: Trying to add Nuclear Control Sensor Kit/Card...
+GT_Mod: ...succeeded.
+GT_Mod: Register Regular Items.
+GT_Mod: Hiding certain Items from NEI.
+GT_Mod: Register regular Item Names.
+GT_Mod: Registering GT/IC2-Circuitry and similar to the OreDict.
+GT_Mod: Register colors to the OreDict.
+GT_Mod: Load-Phase finished!
+GT_Mod: Beginning PostLoad-Phase.
+GT_Mod: Initializing Proxy.
+GT_Mod: Checking if Items got Overloaded.
+GT_Mod: Scanning for certain kinds of compatible Machineblocks.
+GT_Mod: Adding Food Recipes to the Automatic Canning Machine. (also during the following Item Iteration)
+GT_Mod: Scanning ItemList.
+GT_Mod: Getting Storage Blocks of Redpower for the OreDictUnification.
+GT_Mod: Grabbing Liquids of other Mods to register Liquid Cells, and adding Liquid Transposer Recipes for them
+GT_Mod: Initializing various Fuels.
+GT_Mod: Changing maximum Stacksizes if configured.
+GT_Mod: Adding Dungeon Loot.
+GT_Mod: Adding non-OreDict Machine Recipes.
+GT_Mod: Adding Stuff to the Recycler Blacklist.
+GT_Mod: (re-)adding Scrapbox Drops.
+GT_Mod: Adding Slab Recipes.
+GT_Mod: Adding Wool and Color releated Recipes.
+GT_Mod: Adding 'The holy Planks of Sengir'.
+GT_Mod: Adding Mixed Metal Ingot Recipes.
+GT_Mod: Adding Rolling Machine Recipes.
+GT_Mod: Beginning to add regular Crafting Recipes.
+GT_Mod: Applying harder Recipes for Electric Tools and several Blocks.
+GT_Mod: Removing Q-Armor Recipes if configured.
+GT_Mod: Removing Mass Fabricator Recipe if configured.
+GT_Mod: Adding/Removing/Overloading UUM Recipes.
+GT_Mod: Adding all the Reverse Recipes for the Furnace/Macerator/Sawmill.
+GT_Mod: Adding JackHammer minable Blocks.
+GT_Mod: Adding Glowstone and Soulsand to the miners Valuable List.
+GT_Mod: Activating OreDictionary Handler
+You get less Cells, than you put in? My Machines usually don't destroy Cells. item.itemIngotUran / item.itemCellEmpty
+You get less Cells, than you put in? My Machines usually don't destroy Cells. item.GT_Dusts.16 / item.itemCellEmpty
+GT_Mod: Iterating through the Seed-List of ForgeHooks, with a brilliant and 100% Invocation-free Method, to add Recipes for gaining Seed Oil from Seeds.
+GT_Mod: Iterating through the Grass-Flower-List of ForgeHooks, with a brilliant and 100% Invocation-free Method, to add Extractor Recipes for gaining more Dye from Flowers and also Compression Recipes for Plantballs.
+GT_Mod: Forestry was properly loaded, so the Seed Recipes got added to the Squeezer.
+GT_Mod: Adding Default Description Set of the Computer Cube
+GT_Mod: Saving Lang File now.
+GT_Mod: PostLoad-Phase finished!
