@@ -1,5 +1,5 @@
 # Originální modpack "Nargbox"
-Tento repozitář oživuje modpack, který v roce 2012 vytvořil tvůrce jménem NargonCZ. Jen pro představu, první díl třetí série [S03E01](https://www.youtube.com/watch?v=qS4QGI0xDeM&list=PLdGtlU5Soz0K-r-zCiFTjx99h2YlyeguL) nasbíral od svého vydání už přes 1,5 milionu zhlédnutí.
+Tento repozitář oživuje modpack, který v roce 2012 vytvořil tvůrce jménem [NargonCZ](https://www.youtube.com/@NargonCZ). Jen pro představu, první díl třetí série [S03E01](https://www.youtube.com/watch?v=qS4QGI0xDeM&list=PLdGtlU5Soz0K-r-zCiFTjx99h2YlyeguL) nasbíral od svého vydání už přes 1,5 milionu zhlédnutí.
 
 ## Úvod
 Jako osmiletý kiddo jsem začal objevovat YouTube. V tu dobu dominoval GEJMR se svým Tekkitem a Pedro se svým survival světem (který ukončil až v roce 2022). Skrz GEJMRův Tekkit jsem se dostal k Nargonovi. Oba tvůrci si byli dost podobní a měli vášeň pro technické módy tehdejšího Minecraftu. Nargona jsem dokázal sledovat hodiny v kuse a hlavně díky němu mě baví cokoliv spojeného s technologiemi až dodnes.
